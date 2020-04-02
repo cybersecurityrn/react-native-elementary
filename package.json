@@ -1,7 +1,7 @@
 {
     "name": "react-native-core-support",
     "title": "React Native core-support",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "React Native core-support",
     "main": "index.js",
     "scripts": {
